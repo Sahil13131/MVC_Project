@@ -1,0 +1,5 @@
+The Student Record System, built using the MVC (Model-View-Controller) structure, ensures a clean separation of 
+concerns, thereby enhancing maintainability and scalability. This design allows for efficient management of student 
+data, a streamlined user interface, and robust backend processes. Furthermore, I have implemented design patterns such 
+as the Singleton and Factory design patterns to enable seamless updates and modifications to the project without 
+disrupting the overall system integrity. 
